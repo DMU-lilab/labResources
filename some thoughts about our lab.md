@@ -29,4 +29,15 @@
 1. statistics and math, various distributions, machine learning.
 2. more deep and thorough understanding of DNA methylation, histone modification, and cancer genome.
 3. 
-    
+
+##好的团队的标准
+1. 高效的。能够比较快的出比较好的成绩。
+2. 每个人在这个团队里是舒服的。
+   1. 心不慌张，心态是平和的。
+   2. 能够实现自己的价值。
+   3. 知道自己在做什么，要达到什么目的。有明确的任务。
+3. 团队是值得大家信赖的。
+
+
+
+
