@@ -18,4 +18,15 @@
     1. 实验方面，GMP-seq， Amplicon-seq，cell culture，各种文库构建。
     2. 计算方面：BS-seq processing pipeline, RNA-seq (tophat, cuffdiff; subseq, edgeR/DEseq2), ChIP-seq, peak calling.
     3. 每个人的成长都还比较快：学生，老师。
+    4. 
+
+##我们的领域
+1. epigenetics
+2. cancer genome
+3. bioinformatics
+
+##我们欠缺的地方
+1. statistics and math, various distributions, machine learning.
+2. more deep and thorough understanding of DNA methylation, histone modification, and cancer genome.
+3. 
     
